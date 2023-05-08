@@ -1,2 +1,2 @@
 # LearningAndroid
-Repositório para armazenar códigos básicos para Android usando Kotlin
+Repositório para armazenar códigos básicos e iniciais para Android usando Kotlin
